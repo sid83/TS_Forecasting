@@ -8,4 +8,4 @@ Time series forecasting was done using Seasonal ARIMA model. FOllowing steps wer
 * Then dynamic forecasts were calculated and corresponding mse calculated.
 * Low value of both MSEs verified and validated the selected model.
 * Finally forecasts for future 500 steps were carried out and plotted along with the 95% confidence interval.
-* Python library, Statsmodel was used for SARIMA modelling.
+* Python library, Statsmodel was used for SARIMA modelling. 
